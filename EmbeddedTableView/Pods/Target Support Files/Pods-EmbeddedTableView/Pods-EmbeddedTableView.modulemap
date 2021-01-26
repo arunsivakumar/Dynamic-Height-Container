@@ -1,0 +1,6 @@
+framework module Pods_EmbeddedTableView {
+  umbrella header "Pods-EmbeddedTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
